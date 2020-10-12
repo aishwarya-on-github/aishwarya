@@ -10,5 +10,5 @@ I see you found my GitHub. This is where all my code lives, code that does not q
 
 
 <a href="https://www.linkedin.com/in/linkaishgupta">LinkedIn</a> <br />
-Blog - <a href="https://www.medium.com/@thelatestcheckout">Medium</a> <br />
+<a href="https://www.medium.com/@thelatestcheckout">Blog</a> <br />
 <a href = "mailto: aisgupta06@gmail.com">Email</a>
