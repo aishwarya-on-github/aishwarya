@@ -9,6 +9,6 @@ I see you found my GitHub. This is where all my code lives, code that does not q
 => I'm learning Vue JS 📕 <br />
 
 
-LinkedIn - linkedin.com/in/linkaishgupta <br />
-Blog - medium.com/@thelatestcheckout <br />
-Email - aisgupta06@gmail.com
+<a href="https://www.linkedin.com/in/linkaishgupta">LinkedIn</a> <br />
+Blog - <a href="https://www.medium.com/@thelatestcheckout">Medium</a> <br />
+<a href = "mailto: aisgupta06@gmail.com">Email</a>
