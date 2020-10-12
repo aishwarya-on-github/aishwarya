@@ -6,12 +6,12 @@ Hey 👋
 
 <h1>My Likes</h1>
 
-<li>
-<ul>I like dogs and I own one 🐕 <br /></ul>
-<ul>I like writing technology blogs ✍🏻 <br /></ul>
-<ul>I practice my programming skills at everyday 💻  <br /></ul>
-<ul>I'm learning Vue JS 📕 <br /></ul>
-</li>
+<ul>
+<li>I like dogs and I own one 🐕 <br /></li>
+<li>I like writing technology blogs ✍🏻 <br /></li>
+<li>I practice my programming skills at everyday 💻  <br /></li>
+<li>I'm learning Vue JS 📕 <br /></li>
+</ul>
 
 
 <h1>Find me at</h1>
