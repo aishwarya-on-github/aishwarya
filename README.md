@@ -7,15 +7,17 @@ Hey 👋
 <h1>My Likes</h1>
 
 <ul>
-<li>I like dogs and I own one 🐕 <br /></li>
-<li>I like writing technology blogs ✍🏻 <br /></li>
-<li>I practice my programming skills at everyday 💻  <br /></li>
-<li>I'm learning Vue JS 📕 <br /></li>
+  <li>I like dogs and I own one 🐕 </li>
+  <li>I like writing technology blogs ✍🏻 </li>
+  <li>I practice my programming skills at everyday 💻  </li>
+  <li>I'm learning Vue JS 📕 </li>
 </ul>
 
 
 <h1>Find me at</h1>
-<a href = "mailto: aisgupta06@gmail.com">Email</a>
-<a href="https://www.linkedin.com/in/linkaishgupta">LinkedIn</a> <br />
-<a href="https://www.medium.com/@thelatestcheckout">Blog</a> <br />
+<ul>
+  <li><a href = "mailto: aisgupta06@gmail.com">Email</a></li>
+  <li><a href="https://www.linkedin.com/in/linkaishgupta">LinkedIn</a> </li>
+  <li><a href="https://www.medium.com/@thelatestcheckout">Blog</a> </li>
+</ul>
 
