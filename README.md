@@ -9,6 +9,6 @@ I practice my programming skills at everyday 💻  <br />
 I'm learning Vue JS 📕 <br />
 
 
-LinkedIn - linkedin.com/in/linkaishgupta
-Blog - medium.com/@thelatestcheckout
+LinkedIn - linkedin.com/in/linkaishgupta <br />
+Blog - medium.com/@thelatestcheckout <br />
 Email - aisgupta06@gmail.com
